@@ -1,7 +1,7 @@
 ## DataStructures
 # A collection of data structure assignments
 
-This repository contains some work from my Data Structures course that I am proud of.
+This repository contains some work from my Data Structures courses.
 
 The graphs assignment consisted of building a graph from a randomly generated matrix, then creating an adjacency matrix and listing the adjacency list at each level.
 
